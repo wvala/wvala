@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My first about me page can be found at https://wvala.github.io/profile/
+
+For other queries, please contact me on my linkedin.
