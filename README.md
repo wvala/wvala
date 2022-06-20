@@ -17,4 +17,7 @@ Here are some ideas to get you started:
 
 My first about me page can be found at https://wvala.github.io/profile/
 
+CodeWars:
+https://www.codewars.com/users/wva/badges/large
+
 For other queries, please contact me on my linkedin.
