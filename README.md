@@ -1,4 +1,4 @@
-### Welcome to my profile
+### Welcome to my profile!
 
 I'm Will, a 22 year old currently living in the U.K. I have just finished a full-time bootcamp with Le Wagon, and am looking for work as a full stack web developer.
 
@@ -12,4 +12,4 @@ For other queries, please contact me on my <a href="https://www.linkedin.com/in/
 
 <a href="https://www.codewars.com/users/wva" target="_blank"><img src="https://www.codewars.com/users/wva/badges/large"></a>
 
-<a href="https://wvala.github.io/profile/">About Me</a>
+<a href="https://wvala.github.io/profile/">More About Me</a>
