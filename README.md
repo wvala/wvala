@@ -21,6 +21,6 @@ For other queries, please contact me on my <a href="https://www.linkedin.com/in/
 
 Fun stuff:
 
-<a href="https://www.codewars.com/users/wva"><img src="https://www.codewars.com/users/wva/badges/large"></a>
+<a href="https://www.codewars.com/users/wva" target="_blank"><img src="https://www.codewars.com/users/wva/badges/large"></a>
 
 <a href="https://wvala.github.io/profile/">About Me</a>.
