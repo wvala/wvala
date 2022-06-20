@@ -21,4 +21,4 @@ My first about me page can be found at https://wvala.github.io/profile/
 
 <img src="https://www.codewars.com/users/wva/badges/large">
 
-For other queries, please contact me on my linkedin.
+For other queries, please contact me on my <a href="https://www.linkedin.com/in/wva/">LinkedIn</a>.
