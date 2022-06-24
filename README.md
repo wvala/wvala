@@ -2,7 +2,7 @@
 
 I'm Will, a 22 year old currently living in the U.K. I have just finished a full-time bootcamp with Le Wagon, and am looking for work as a full stack web developer.
 
-You will find my portfolio projects in "pinned", with <a href="http://www.kanaku.me">Kanaku</a> being the most recent and up-to-date repo.
+You will find my portfolio projects in "pinned", with <a href="http://www.kanaku.me">Kanaku</a> being the most recent and up-to-date repo. To see a more detailed portfolio (for both myself and my projects), please see my <a href="troopl.com/wva">Troopl</a>.
 <br>
 NOTE: Kanaku is currently only designed for mobile users, whereas Rent-A-Car is better suited for desktops.
 
