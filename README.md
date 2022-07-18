@@ -16,6 +16,6 @@ For other queries, please contact me on my <a href="https://www.linkedin.com/in/
 
 ### Current projects:
 
-<a href="https://www.github.com/spethspeth/bit-sized-reviews>Bit Sized Reviews!</a>
+<a href="https://www.github.com/spethspeth/bit-sized-reviews">Bit Sized Reviews!</a>
 
-<a href="https://www.github.com/wvala/react>Learning React</a>
+<a href="https://www.github.com/wvala/react">Learning React</a>
