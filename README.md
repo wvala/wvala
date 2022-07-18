@@ -13,3 +13,9 @@ For other queries, please contact me on my <a href="https://www.linkedin.com/in/
 <a href="https://www.codewars.com/users/wva" target="_blank"><img src="https://www.codewars.com/users/wva/badges/large"></a>
 
 <a href="https://wvala.github.io/profile/">More About Me</a>
+
+### Current projects:
+
+<a href="https://www.github.com/spethspeth/bit-sized-reviews>Bit Sized Reviews!</a>
+
+<a href="https://www.github.com/wvala/react>Learning React</a>
